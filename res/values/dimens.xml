@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Common dimension for view more detail screen -->
+<resources>
+
+    <!-- generic margin -->
+    <dimen name="generic_margin">10dp</dimen>
+    
+    <!-- exams_activity.xml -->
+     <dimen name="generic_header_footer">50dp</dimen>
+    
+     <dimen name="margin_5">5dp</dimen>
+
+</resources>
